@@ -32,13 +32,13 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-ignition-ethers": "^0.15.14",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "@nomicfoundation/hardhat-verify": "^2.1.0",
+    "@nomicfoundation/hardhat-verify": "^2.1.1",
     "chai": "^4.5.0",
     "commander": "^12.1.0",
     "dotenv": "^16.6.1",
     "ethereumjs-util": "^7.1.5",
     "ethers": "^6.15.0",
-    "hardhat": "^2.26.1",
+    "hardhat": "^2.26.3",
     "mocha": "^10.8.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2"
